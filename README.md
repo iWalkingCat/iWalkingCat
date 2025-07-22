@@ -1,6 +1,6 @@
 - 👋 Hi, I’m WalkingCat!
 - 👀 I’m interested in computer security, automation, computer hardware.
-- 🌱 I’m currently learning Bash, Ansible, Github, Jenkins.
+- 🌱 I’m currently learning TypeScript, Bash, Ansible.
 - 📫 How to reach me: <a href="https://t.me/walkingcat"> Telegram</a>.
 
 <!---
